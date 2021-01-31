@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalizationOnTheFly
+
+  Created by Антон Савинов on 29.01.2021.
+  
+*/
+
+"settings_language" = "Язык";
+"settings_language_footer" = "Выберите язык интерфейса.";
+"hello_world" = "Всем привет!!!";
+"this_text_localised" = "Этот текст также локализован на лету";
